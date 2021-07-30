@@ -1,6 +1,6 @@
-# Album-React-Native
+# Album-React-Native (Api deprecated)
 
-Album are queried from api and displayed in the application
+Album are queried from api and displayed in the application.
 
 # Stack used:
 
